@@ -9,6 +9,7 @@ A community-sourced list of Hosting Providers for Enshrouded server rentals.
 - [Arkyn](https://portal.arkyn.net/store/game-servers/enshrouded/)
 - [Ascend Servers](https://www.ascendservers.com)
 - [Axcello-Hosting](game.axcello.net)
+- [BerryByte](https://berrybyte.net/enshrouded-server-hosting)
 - [BisectHosting](https://www.bisecthosting.com)
 - [BlueFangSolutions](https://www.bluefangsolutions.com/shop/enshrouded)
 - [Citadel Servers](https://www.citadelservers.com)
